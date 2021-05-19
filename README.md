@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**huuluan97/huuluan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Luan Nguyen 👋
 
 Here are some ideas to get you started:
 
